@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(37, 39, 39);
+    text-align: center;
+    color: white;
+}
+
+#board {
+    width: 900px;
+    height: 900px;
+    background-color: rgb(108, 108, 47);
+    margin: auto;
+}
+
+#a8 {
+    width: 112.5px;
+    height: 112.5px;
+}
